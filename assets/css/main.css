@@ -611,12 +611,12 @@ section,
 --------------------------------------------------------------*/
 .section-title {
   text-align: center;
-  padding-bottom: 60px;
+  padding-bottom: 25px;
   position: relative;
 }
 
-.section-title h2 {
-  font-size: 32px;
+.section-title h3 {
+  font-size: 25px;
   font-weight: 700;
   margin-bottom: 20px;
   text-transform: uppercase;
@@ -624,7 +624,7 @@ section,
   position: relative;
 }
 
-.section-title h2:after {
+.section-title h3:after {
   content: "";
   position: absolute;
   display: block;
